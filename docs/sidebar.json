@@ -1,6 +1,7 @@
 {
-  "CircuitPython_pico_pi_controller": {
+  "CircuitPython_pico_pi_common": {
     "Overview": "/",
-    "CircuitPython_pico_pi_common": "core.html"
+    "CircuitPython_pico_pi_common": "core.html",
+    "CircuitPython_pico_pi_common.codes": "codes.html"
   }
 }

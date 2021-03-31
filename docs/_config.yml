@@ -63,4 +63,4 @@ plugins:
     - jekyll-remote-theme
     
 remote_theme: fastai/nbdev-jekyll-theme
-baseurl: /CircuitPython_pico_pi_controller/
+baseurl: /CircuitPython_pico_pi_common/
