@@ -1,24 +1,11 @@
-# Project name here
-> Summary description here.
+# CircuitPython pico_pi_common
+> A library shared by Pico Pi Controller libraries
 
-
-This file will become your README and also the index of your documentation.
 
 ## Install
 
-`pip install your_project_name`
+`pip install CircuitPython_pico_pi_common`
 
 ## How to use
 
-Fill me in please! Don't forget code examples:
-
-```
-1+1
-```
-
-
-
-
-    2
-
-
+See https://durapensa.github.io/CircuitPython_pico_pi_controller/
