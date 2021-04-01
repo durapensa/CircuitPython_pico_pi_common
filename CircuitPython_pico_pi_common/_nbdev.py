@@ -11,8 +11,7 @@ index = {"__version__": "00_core.ipynb",
          "CMD_CODE": "01_codes.ipynb",
          "CMD_NAME": "01_codes.ipynb",
          "CMD_VAL_LEN": "01_codes.ipynb",
-         "REP_CLI_CATALOG": "01_codes.ipynb",
-         "stats_struct": "01_codes.ipynb"}
+         "REP_CLI_CATALOG": "01_codes.ipynb"}
 
 modules = ["core.py",
            "codes.py"]
