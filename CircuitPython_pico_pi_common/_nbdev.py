@@ -4,17 +4,25 @@ __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
 index = {"__version__": "00_core.ipynb",
          "__repo__": "00_core.ipynb",
+         "parse_cmd": "01_codes.ipynb",
          "ID_CODE": "01_codes.ipynb",
          "REG_CODE": "01_codes.ipynb",
+         "REG_NAME": "01_codes.ipynb",
+         "REG_INT": "01_codes.ipynb",
          "REG_VAL_LEN": "01_codes.ipynb",
          "CMD_CATALOG": "01_codes.ipynb",
+         "COMPLEX_CMD": "01_codes.ipynb",
          "CMD_CODE": "01_codes.ipynb",
          "CMD_NAME": "01_codes.ipynb",
-         "CMD_VAL_LEN": "01_codes.ipynb",
-         "REP_CLI_CATALOG": "01_codes.ipynb"}
+         "CMD_ARG_LEN": "01_codes.ipynb",
+         "CMD_REG_MAP": "01_codes.ipynb",
+         "CMD_INT": "01_codes.ipynb",
+         "REP_CLI_CATALOG": "01_codes.ipynb",
+         "controller": "99_code.ipynb"}
 
 modules = ["core.py",
-           "codes.py"]
+           "codes.py",
+           "code.py"]
 
 doc_url = "https://durapensa.github.io/CircuitPython_pico_pi_common/"
 
